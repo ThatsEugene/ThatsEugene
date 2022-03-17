@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThatsEugene
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning PyTorch
+- 💞️ I’m looking to collaborate on interesting open source projects
+- 📫 Just drop me a private message if you want
